@@ -1,4 +1,5 @@
 require "middleman/as_middleware/version"
+require "middleman/rack"
 
 module Middleman
   class AsMiddleware
