@@ -1,5 +1,5 @@
 # Middleman::AsMiddleware
-[![Build Status](https://secure.travis-ci.org/JonRowe/middleman-asmiddleware)](http://travis-ci.org/JonRowe/middleman-asmiddleware) [![Code Climate](https://codeclimate.com/github/JonRowe/middleman-asmiddleware.png)](https://codeclimate.com/github/JonRowe/middleman-asmiddleware)
+[![Build Status](https://travis-ci.org/JonRowe/middleman-asmiddleware.png?branch=master)](https://travis-ci.org/JonRowe/middleman-asmiddleware) [![Code Climate](https://codeclimate.com/github/JonRowe/middleman-asmiddleware.png)](https://codeclimate.com/github/JonRowe/middleman-asmiddleware)
 
 A quick helper to use middleman as middleware (useful for api deployment scenarios)
 
