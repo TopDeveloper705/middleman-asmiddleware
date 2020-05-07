@@ -17,7 +17,7 @@ Gem::Specification.new do |spec|
   spec.test_files    = spec.files.grep(%r{^(spec|features)/})
   spec.require_paths = ["lib"]
 
-  spec.add_runtime_dependency "middleman"
+  spec.add_runtime_dependency "middleman", "> 3"
 
   if RUBY_VERSION.to_f < 2.3
     spec.add_development_dependency "bundler", "~> 1.3"
